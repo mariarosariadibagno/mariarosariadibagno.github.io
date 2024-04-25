@@ -9,11 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - CV.qmd
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles-m.css
     toc: true
 
 editor: visual
