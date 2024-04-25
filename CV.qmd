@@ -4,36 +4,8 @@ format: html
 editor: visual
 ---
 
-## CV
-
 **My Video CV:**
-```{=html}
-<!-- Your HTML code here -->
-<div id="main">
 
-
-        <div id="right-col">
-            
-            <h6>My Video CV:</h6>
-            <video controls src="Video-CV.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-              </video>
-
-              <h6 style="width: 100%;">Want to Read?</h6>
-              <a href="/Users/maradibagno/Desktop/John Cabot/mariarosariadibagno.github.io/_site/CV.docx" download="CV.docx" style="text-decoration: none;">
-                <button style="padding: 8px 32px; border: solid 1px black; border-radius: 300px; cursor: pointer;">
-                  Download My CV
-                </button>
-              </a>
-              
-              
-              
-
-        </div>
-
-
-    </div>
-
-              
-              
-```
+<!-- Begin YouTube embed code -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3tpwWfNyDlo" title="Video Resume" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- End YouTube embed code -->

@@ -1,12 +1,18 @@
 ---
 title: "Mariarosaria Di Bagno"
 image: images/img-mara.jpeg
-about:
+about: 
   template: trestles
   image-width: 5cm
   image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/mariarosaria-di-bagno-7a03232b7/
+    - icon: instagram
+      href: https://www.instagram.com/maradibagno?igsh=dGx1Mm1jZHNwZDNq
 ---
-welcome! My name is Mariarosaria Di Bagno, and I am proud to announce my graduation from John Cabot University where I have cultivated a robust academic foundation with a Bachelor's degree in International Affairs and minors in Economics and Legal Studies. These disciplines have afforded me a multidimensional understanding of the global landscape, which is instrumental in addressing the complex challenges of today's interconnected world
+
+Greetings! My name is Mariarosaria Di Bagno, and I am proud to announce my graduation from [John Cabot University](https://www.johncabot.edu) where I have cultivated a robust academic foundation with a Bachelor's degree in International Affairs and minors in Economics and Legal Studies. These disciplines have afforded me a multidimensional understanding of the global landscape, which is instrumental in addressing the complex challenges of today's interconnected world
 
 My academic journey has been driven by an unwavering commitment to understanding the intricate tapestry of global economic and legal frameworks and their intersection with international relations. This has nurtured my analytical abilities and equipped me with the critical thinking skills necessary to navigate and influence the multifaceted realms of policy, economics, and law.
 

@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "mariarosaria.dibagno.github.io"
+  title: "Mariarosaria Di Bagno"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - CV.qmd
+      - Projects.qmd
 
 format:
   html:
@@ -18,4 +19,12 @@ format:
     toc: true
 
 editor: visual
+
+
+
+
+
+
+
+
 
