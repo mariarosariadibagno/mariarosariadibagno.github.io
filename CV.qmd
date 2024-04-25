@@ -12,22 +12,6 @@ editor: visual
 <div id="main">
 
 
-        <div id="left-col">
-
-            <div id="profile-circle">
-                <img src="img-mara.jpeg" id="profile-img">
-            </div>
-            <h6 id="name">Mariarosaria Di Bagno</h6>
-            <p class="body-small">Student at John Cabot University</p>
-            <p class="body-small">BA in International Affairs</p>
-            <p class="body-small">Minors in Economic & Legal Studies</p>
-            <a href="mailto: mariarosariadibagno@gmail.com">mariarosariadibagno@gmail.com</a>
-            <br>
-            <a href="https://www.linkedin.com/in/mariarosaria-di-bagno-7a03232b7/">LinkedIn</a>
-
-
-        </div>
-
         <div id="right-col">
             
             <h6>My Video CV:</h6>
