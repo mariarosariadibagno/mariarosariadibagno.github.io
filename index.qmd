@@ -1,5 +1,10 @@
 ---
 title: "Mariarosaria Di Bagno"
+image: images/img-mara.jpeg
+about:
+  template: trestles
+  image-width: 5cm
+  image-shape: round
 ---
 welcome! My name is Mariarosaria Di Bagno, and I am proud to announce my graduation from John Cabot University where I have cultivated a robust academic foundation with a Bachelor's degree in International Affairs and minors in Economics and Legal Studies. These disciplines have afforded me a multidimensional understanding of the global landscape, which is instrumental in addressing the complex challenges of today's interconnected world
 
