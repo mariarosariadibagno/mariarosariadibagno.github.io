@@ -25,7 +25,7 @@ This time frame provides a balance of historical perspective and recent data rel
 - Delve into a *comprehensive analysis* that connects environmental politics, sustainable practices, and advanced computational methods: <br>
 [View My Final Presentation](docs/Final_Project.html) 
  <br>
-- Discover a brief overview of the critical insights and conclusions of my study: <br>
+- Discover a *brief overview* of the critical insights and conclusions of my study: <br>
 [Access My Memo Presentation](docs/memo_Project.html) 
 
 :::
