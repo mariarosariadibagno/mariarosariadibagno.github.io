@@ -1,14 +1,1 @@
 /* css styles */
-
-.main-content {
-  width: 85%;          /* Increase the width of the content area */
-  margin-left: 2%;     /* Decrease the left margin as needed */
-}
-
-/* Responsive design: Adjust layout for smaller screens */
-@media (max-width: 768px) {
-  .main-content {
-    width: 100%;
-    margin-left: 0;
-  }
-}
