@@ -11,10 +11,10 @@ editor: visual
 
 ::: {.column width="70%"}
 **Title**:<br> 
-<span style="color:green;">**1972-2022: Rising Temperatures and Droughts**</span> <br>
-<span style="color:green;">*focus on New Zealand*</span>
+**1972-2022: Rising Temperatures and Droughts** <br>
+             *focus on New Zealand*
 
-This is an extensive project that analyzes the relationship between *climate change* and *drought intensity* in **New Zealand**, a region known for its susceptibility to **droughts**.
+This project analyzes the relationship between **climate change** and **drought intensity** in New Zealand, a region known for its susceptibility to **droughts**.
 :::
 
 ::: {.column width="10%"}
@@ -30,7 +30,7 @@ This is an extensive project that analyzes the relationship between *climate cha
 
 ::::
 
-Beginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
+Beginning with a global context, the study traces developments from 1972—the year of the first **United Nations Conference on the Human Environment**—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
 
 
 *Explore the findings from my extensive research on the relationship between climate change and drought intensity in New Zealand through my presentations:*
