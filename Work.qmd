@@ -5,11 +5,10 @@ editor: visual
 ---
 
 # Internships
+## **Bureau Intern**
 :::: {.columns}
 
 ::: {.column width="70%"}
-
-# **Junior Team Intern, Global Action** 
 
 *Overview*:
 

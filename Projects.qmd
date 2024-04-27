@@ -10,12 +10,11 @@ editor: visual
 :::: {.columns}
 
 ::: {.column width="70%"}
-**1972-2022: Rising Temperatures and Droughts**<br> 
-  *focus on New Zealand*
+**Title**:<br> 
+<span style="color:green;">**1972-2022: Rising Temperatures and Droughts**</span> <br>
+<span style="color:green;">*focus on New Zealand*</span>
 
-This project is the final presentation for PL/CS 362: *Computational Methods for Political Science*. <br>
-
-It is an extensive project that analyzes the relationship between *climate change* and *drought intensity* in **New Zealand**, a region known for its susceptibility to **droughts**.
+This is an extensive project that analyzes the relationship between *climate change* and *drought intensity* in **New Zealand**, a region known for its susceptibility to **droughts**.
 :::
 
 ::: {.column width="10%"}
