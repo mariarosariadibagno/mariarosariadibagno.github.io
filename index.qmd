@@ -1,5 +1,6 @@
 ---
-title: "Mariarosaria Di Bagno"
+title: "Mariarosaria <br>
+Di Bagno"
 subtitle: "B.A. in International Affairs<br>Minors in Economics & Legal Studies"
 style: floating
 output: 

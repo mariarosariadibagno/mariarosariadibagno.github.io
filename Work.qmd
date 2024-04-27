@@ -11,14 +11,30 @@ editor: visual
 
 # **Junior Team Intern, Global Action** 
 
-::: {style="text-align: left"}
+*Overview*:
+
+As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.<br>
+
+::: {style="text-align: center"}
 ![](images/global-action.png){width="120" height="auto"}  
 :::
 
 
-*Overview*:
+:::
 
-As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.<br>
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+
+![](images/E-Inverted-Icons_WEB-04.png){width="250" height="auto"}  
+
+
+:::
+
+::::
+
 
 
 **Key Responsibilities**
@@ -35,17 +51,3 @@ As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a no
 
 <br>
 This Internship allowed me to develop and refine a comprehensive skill set that includes advanced administrative capabilities, strong leadership traits, and effective cross-cultural communication. These experiences have equipped me to contribute effectively to initiatives that require a blend of strategic planning and meticulous operational execution.
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="20%"}
-
-![](images/E-Inverted-Icons_WEB-04.png){width="350" height="auto"}  
-
-
-:::
-
-::::

@@ -13,11 +13,25 @@ editor: visual
 **1972-2022: Rising Temperatures and Droughts**<br> 
   *focus on New Zealand*
 
-This project is the final presentation for PL/CS 362: *Computational Methods for Political Science*. It is an extensive project that analyzes the relationship between *climate change* and *drought intensity* in **New Zealand**, a region known for its susceptibility to **droughts**.
-Beginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. 
+This project is the final presentation for PL/CS 362: *Computational Methods for Political Science*. <br>
+
+It is an extensive project that analyzes the relationship between *climate change* and *drought intensity* in **New Zealand**, a region known for its susceptibility to **droughts**.
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+
+![](images/1606830999754.png){width="250" height="auto"}  
 
 
-This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
+:::
+
+::::
+
+Beginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
 
 
 *Explore the findings from my extensive research on the relationship between climate change and drought intensity in New Zealand through my presentations:*
@@ -27,22 +41,4 @@ This time frame provides a balance of historical perspective and recent data rel
  <br>
 - Discover a *brief overview* of the critical insights and conclusions of my study: <br>
 [Access My Memo Presentation](docs/memo_Project.html) 
-
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="20%"}
-
-![](images/1606830999754.png){width="350" height="auto"}  
-
-
-:::
-
-::::
-
-
-
 
