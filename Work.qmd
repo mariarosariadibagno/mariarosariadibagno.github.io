@@ -8,7 +8,7 @@ editor: visual
 ## **Bureau Intern**
 :::: {.columns}
 
-::: {.column width="70%"}
+::: {.column width="60%"}
 
 *Overview*:
 
@@ -25,7 +25,7 @@ As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a no
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="20%"}
+::: {.column width="30%"}
 
 ![](images/E-Inverted-Icons_WEB-04.png){width="250" height="auto"}  
 
@@ -44,15 +44,16 @@ As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a no
 **Key Responsibilities**
 
 - **Event Coordination** <br>
-Assisted in organizing educational events, including local school visits and the Global Action Model United Nations. 
+Assisted in organizing educational events, such as local school visits and the Global Action Model United Nations.
+
 - **Communication and Collaboration**<br>
-Acted as a link between diplomats, educators, and organizational partners, facilitating effective communication.
+Facilitated effective communication between diplomats, educators, and organizational partners.
 
 - **Database Management** <br>
-My tasks included creating new files and ensuring timely updates on Google Drive,crucial for the efficient management of our projects.
+Managed files and ensured timely updates on Google Drive to support project efficiency.
 
 - **Document Preparation**<br>
-Drafted documents including reports, emails, and forms.
+Drafted reports, emails, and forms to support organizational needs.
 :::
 ::: {.column width="5%"}
 

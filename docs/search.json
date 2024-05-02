@@ -11,7 +11,7 @@
     "href": "CV.html",
     "title": "CV",
     "section": "",
-    "text": "My Video CV:\n\n\n\n\nWant to Read?\nDownload My CV"
+    "text": "My Video CV:\n\n\n\n\n\n\n\nWant to Read?\nDownload My CV"
   },
   {
     "objectID": "CV.html#cv",
@@ -32,7 +32,7 @@
     "href": "Projects.html#senior-thesis",
     "title": "Projects",
     "section": "Senior Thesis",
-    "text": "Senior Thesis\n[My Thesis] (files/CVResume-3.pdf){download=‘CVResume-3.pdf’ .button}"
+    "text": "Senior Thesis\n\nThe Green Influence:  Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries\n\n\n\n\nAbstract This thesis examines how political systems in oil-rich countries influence the adoption of environmental sustainability practices aligned with the UN Sustainable Development Goals. While prior research suggests democratic nations are more inclined towards sustainable environmental policies, this study expands upon that notion. Through an analytical framework encompassing the production function, clean democracy hypothesis, environmental Kuznets curve, and eco-authoritarianism, it evaluates the relationship between political systems and environmental performance.\nUtilizing quantitative analysis across 156 countries and qualitative examination of policy initiatives in the UAE, Saudi Arabia, and Qatar, this thesis reveals that some authoritarian oil-dependent countries demonstrate environmental initiatives. These findings challenge biases and advocate for reconsideration of the potential for environmentally sustainable policies in such nations.\nFurthermore, this research addresses a notable gap in the literature by connecting various theories to assess the impact of political systems on environmental initiatives in oil-rich countries. By integrating aspects of political economy and environmental policy, it contributes valuable insights for future studies on oil, political systems, and their effectiveness in promoting environmental initiatives.\n\n\n\nRead my My Senior Thesis"
   },
   {
     "objectID": "index.html#section",
@@ -52,8 +52,8 @@
     "objectID": "Projects.html#rising-temperatures-and-droughts",
     "href": "Projects.html#rising-temperatures-and-droughts",
     "title": "Projects",
-    "section": "1972-2022: Rising Temperatures and Droughts",
-    "text": "1972-2022: Rising Temperatures and Droughts\nfocus on New Zealand\nThis project is the final presentation for PL/CS 362: Computational Methods for Political Science. It is an extensive project that analyzes the relationship between climate change and drought intensity in New Zealand, a region known for its susceptibility to droughts. Beginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for spatial analysis and Geographic Information Systems (GIS).\nClick here to access the Presentation\nMemo Presentation"
+    "section": "",
+    "text": "This project analyzes the relationship between climate change and drought intensity in New Zealand, a region known for its susceptibility to droughts. \nBeginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for spatial analysis and Geographic Information Systems (GIS).\n\n\n\n\n\n\nExplore my findings through my presentations:\n\nDelve into a comprehensive analysis that connects environmental politics, sustainable practices, and advanced computational methods:  View My Final Presentation \nDiscover a brief overview of the critical insights and conclusions of my study:  Access My Memo Presentation"
   },
   {
     "objectID": "Projects.html#rising-temperatures-and-droughts-focus-on-new-zealand",
@@ -67,7 +67,7 @@
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Title: 1972-2022: Rising Temperatures and Droughts  focus on New Zealand\nThis project analyzes the relationship between climate change and drought intensity in New Zealand, a region known for its susceptibility to droughts.\n\n\n\n\n\n\nBeginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for spatial analysis and Geographic Information Systems (GIS).\nExplore my findings through my presentations:\n\nDelve into a comprehensive analysis that connects environmental politics, sustainable practices, and advanced computational methods:  View My Final Presentation \nDiscover a brief overview of the critical insights and conclusions of my study:  Access My Memo Presentation"
+    "text": "This project analyzes the relationship between climate change and drought intensity in New Zealand, a region known for its susceptibility to droughts. \nBeginning with a global context, the study traces developments from 1972—the year of the first United Nations Conference on the Human Environment—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for spatial analysis and Geographic Information Systems (GIS).\n\n\n\n\n\n\nExplore my findings through my presentations:\n\nDelve into a comprehensive analysis that connects environmental politics, sustainable practices, and advanced computational methods:  View My Final Presentation \nDiscover a brief overview of the critical insights and conclusions of my study:  Access My Memo Presentation"
   },
   {
     "objectID": "Projects.html#projects",
@@ -88,7 +88,7 @@
     "href": "Work.html",
     "title": "Work",
     "section": "",
-    "text": "Overview:\nAs a Junior Team Intern at Global Action, a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.\n\n\n\n\n\n\n\n\n\n\n\nKey Responsibilities\n\nEvent Coordination  Assisted in organizing educational events, including local school visits and the Global Action Model United Nations.\nCommunication and Collaboration Acted as a link between diplomats, educators, and organizational partners, facilitating effective communication.\nDatabase Management  My tasks included creating new files and ensuring timely updates on Google Drive,crucial for the efficient management of our projects.\nDocument Preparation Drafted documents including reports, emails, and forms.\n\n\n\n\nAchievements\n\nLeadership and Initiative \nEnhanced Organizational Efficiency \nCross-Cultural Communication \nAdministrative Capabilities"
+    "text": "Overview:\nAs a Junior Team Intern at Global Action, a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.\n\n\n\n\n\n\n\n\n\n\n\nKey Responsibilities\n\nEvent Coordination  Assisted in organizing educational events, such as local school visits and the Global Action Model United Nations.\nCommunication and Collaboration Facilitated effective communication between diplomats, educators, and organizational partners.\nDatabase Management  Managed files and ensured timely updates on Google Drive to support project efficiency.\nDocument Preparation Drafted reports, emails, and forms to support organizational needs.\n\n\n\n\nAchievements\n\nLeadership and Initiative \nEnhanced Organizational Efficiency \nCross-Cultural Communication \nAdministrative Capabilities"
   },
   {
     "objectID": "Work.html#junior-team-intern-global-action",
@@ -109,6 +109,20 @@
     "href": "Work.html#bureau-intern",
     "title": "Work",
     "section": "",
-    "text": "Overview:\nAs a Junior Team Intern at Global Action, a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.\n\n\n\n\n\n\n\n\n\n\n\nKey Responsibilities\n\nEvent Coordination  Assisted in organizing educational events, including local school visits and the Global Action Model United Nations.\nCommunication and Collaboration Acted as a link between diplomats, educators, and organizational partners, facilitating effective communication.\nDatabase Management  My tasks included creating new files and ensuring timely updates on Google Drive,crucial for the efficient management of our projects.\nDocument Preparation Drafted documents including reports, emails, and forms.\n\n\n\n\nAchievements\n\nLeadership and Initiative \nEnhanced Organizational Efficiency \nCross-Cultural Communication \nAdministrative Capabilities"
+    "text": "Overview:\nAs a Junior Team Intern at Global Action, a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.\n\n\n\n\n\n\n\n\n\n\n\nKey Responsibilities\n\nEvent Coordination  Assisted in organizing educational events, such as local school visits and the Global Action Model United Nations.\nCommunication and Collaboration Facilitated effective communication between diplomats, educators, and organizational partners.\nDatabase Management  Managed files and ensured timely updates on Google Drive to support project efficiency.\nDocument Preparation Drafted reports, emails, and forms to support organizational needs.\n\n\n\n\nAchievements\n\nLeadership and Initiative \nEnhanced Organizational Efficiency \nCross-Cultural Communication \nAdministrative Capabilities"
+  },
+  {
+    "objectID": "Projects.html#section",
+    "href": "Projects.html#section",
+    "title": "Projects",
+    "section": "",
+    "text": "1972-2022:  Rising Temperatures and Droughts \nfocus on New Zealand\nThis project analyzes the relationship between climate change and drought intensity in New Zealand, a region known for its susceptibility to droughts."
+  },
+  {
+    "objectID": "CV.html#certificates",
+    "href": "CV.html#certificates",
+    "title": "CV",
+    "section": "Certificates",
+    "text": "Certificates\n\n\n\n\nFashion and Luxury Management  Bocconi University Through my studies in Luxury and Fashion Management at Bocconi University, I have gained comprehensive knowledge in main business models, product and brand management, communication identity and challenge, and retail identity and distribution strategies. This certificate has equipped me with essential skills and insights vital for success in the dynamic luxury and fashion industries\n\n\n\nLuxury Management Hec Paris I am thrilled to announce that I have been admitted to the HEC Paris Summer School for a course in Luxury Management, which I will be attending in June. HEC Paris consistently ranks among the top business schools globally, solidifying its reputation as a leader in business education.\n\nUpon completion of the course, I will proudly upload the certificate here."
   }
 ]
