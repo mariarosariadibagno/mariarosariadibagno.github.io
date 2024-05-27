@@ -5,20 +5,18 @@ editor: visual
 ---
 
 # Internships
+
 ## **Bureau Intern**
-:::: {.columns}
 
+::: columns
 ::: {.column width="60%"}
-
 *Overview*:
 
 As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a nonprofit organization dedicated to educational initiatives aimed at promoting inclusive and quality education for all, I played a pivotal role in supporting the administrative and logistical aspects of our projects. My work focused on enhancing operational efficiency and fostering collaboration across diverse teams and international partners.<br>
 
 ::: {style="text-align: left"}
-![](images/global-action.png){width="120" height="auto"}  
+![](images/global-action.png){width="120" height="auto"}
 :::
-
-
 :::
 
 ::: {.column width="10%"}
@@ -26,54 +24,63 @@ As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a no
 :::
 
 ::: {.column width="30%"}
-
-![](images/E-Inverted-Icons_WEB-04.png){width="250" height="auto"}  
-
-
+![](images/E-Inverted-Icons_WEB-04.png){width="250" height="auto"}
+:::
 :::
 
-::::
-
-
-
-
-:::: {.columns}
-
+::: columns
 ::: {.column width="47%"}
-
 **Key Responsibilities**
 
-- **Event Coordination** <br>
-Assisted in organizing educational events, such as local school visits and the Global Action Model United Nations.
+-   **Event Coordination** <br> Assisted in organizing educational events, such as local school visits and the Global Action Model United Nations.
 
-- **Communication and Collaboration**<br>
-Facilitated effective communication between diplomats, educators, and organizational partners.
+-   **Communication and Collaboration**<br> Facilitated effective communication between diplomats, educators, and organizational partners.
 
-- **Database Management** <br>
-Managed files and ensured timely updates on Google Drive to support project efficiency.
+-   **Database Management** <br> Managed files and ensured timely updates on Google Drive to support project efficiency.
 
-- **Document Preparation**<br>
-Drafted reports, emails, and forms to support organizational needs.
+-   **Document Preparation**<br> Drafted reports, emails, and forms to support organizational needs.
 :::
-::: {.column width="5%"}
 
-::: 
+::: {.column width="5%"}
+:::
+
 ::: {.column width="47%"}
 **Achievements**
 
-- **Leadership and Initiative** <br>
+-   **Leadership and Initiative** <br>
 
-- **Enhanced Organizational Efficiency** <br>
+-   **Enhanced Organizational Efficiency** <br>
 
-- **Cross-Cultural Communication** <br>
+-   **Cross-Cultural Communication** <br>
 
-- **Administrative Capabilities**<br>
+-   **Administrative Capabilities**<br>
+:::
+:::
 
-::: 
-::::
+### GAMUN -Global Action Model United Nations 
+**My Role at GAMUN 2024 (20-23 May)** <br>
+In May 2024, I had the honor of contributing to the seventh edition of the Global Action Model United Nations (GAMUN), hosted at the [International Fund for Agricultural Development](https://www.ifad.org/en/) in Rome. This event is a flagship project of Global Action Italy’s Diplomacy Education, dedicated to promoting **accessible, high-quality education on a global scale**.
 
+My involvement began in the intricate planning and organizational phases, where I was part of the **managerial team** responsible for the logistical and strategic execution of the conference. This role required meticulous attention to detail and a deep understanding of how to cultivate an environment conducive to fruitful discussions and meaningful outcomes.
 
+Following my responsibilities in management, I transitioned to a pivotal academic role, chairing the World Food Programme (WFP) commission. Here, I guided deliberations on "Building Resilience: Food Assistance for Disaster-Prone Communities" and "Urban Food Insecurity: Strategies for Ensuring Access in Cities." These discussions aimed to address some of the most pressing challenges in global food security, focusing on innovative and sustainable solutions.
 
+My dual roles at GAMUN 2024 allowed me to leverage both organizational and academic skills. The experience not only reinforced my leadership capabilities but also deepened my commitment to fostering international cooperation and education to address global issues. It was a privilege to  learn alongside a team of passionate individuals, all working towards a common goal of making education accessible and effective.
+
+::: columns
+
+::: {.column width="45%"}
+![](images/441576642_848858730607643_4217255351637173789_n-1.jpg){width="320" height="auto"}
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+![](images/DSC_0297.JPG){width="320" height="auto"}
+:::
+:::
 
 
 
