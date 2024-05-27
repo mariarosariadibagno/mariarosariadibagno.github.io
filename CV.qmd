@@ -3,8 +3,8 @@ title: "CV"
 format: html
 editor: visual
 ---
-:::: {.columns}
 
+::: columns
 ::: {.column width="55%"}
 **My Video CV:**
 
@@ -18,8 +18,6 @@ editor: visual
 :::
 
 ::: {.column width="10%"}
-
-
 :::
 
 ::: {.column width="25%"}
@@ -27,36 +25,27 @@ editor: visual
 
 [Download My CV](files/CVResume-3.pdf){.button download="CVResume-3.pdf"}
 :::
+:::
 
-::::
+## Certificates
 
-
-## Certificates 
-
-::: {.columns}
-
+::: columns
 ::: {.column width="60%"}
-![](images/Bocconi_University_Logo.png){width="120" height="auto" style="text-align: center"} 
+![](images/Bocconi_University_Logo.png){width="120" height="auto" style="text-align: center"}
 
-- **Fashion and Luxury Management** <br>
-         *Bocconi University*<br>
-Through my studies in Luxury and Fashion Management at Bocconi University, I have gained comprehensive knowledge in **main business models**, **product** and **brand management**, **communication identity** and **challenge**, and **retail identity** and **distribution strategies**. This [certificate](images/CERTIFICATE_LANDING_PAGE~UNPKY3DH64LW.jpeg) has equipped me with essential skills and insights vital for success in the dynamic luxury and fashion industries
+-   **Fashion and Luxury Management** <br> *Bocconi University*<br> Through my studies in Luxury and Fashion Management at Bocconi University, I have gained comprehensive knowledge in **main business models**, **product** and **brand management**, **communication identity** and **challenge**, and **retail identity** and **distribution strategies**. This [certificate](images/CERTIFICATE_LANDING_PAGE~UNPKY3DH64LW.jpeg) has equipped me with essential skills and insights vital for success in the dynamic luxury and fashion industries
 
 ![](images/HEC_Paris.svg.png){width="100" height="auto" style="text-align: center"}
 
-- **Luxury Management**<br>
-         *Hec Paris*<br>
-I am thrilled to announce that I have been admitted to the **HEC Paris Summer School** for a course in **Luxury Management**, which I will be attending in June. **HEC Paris** consistently ranks among the top business schools globally, solidifying its reputation as a leader in business education.
+-   **Luxury Management**<br> *Hec Paris*<br> I am thrilled to announce that I have been admitted to the **HEC Paris Summer School** for a course in **Luxury Management**, which I will be attending in June. **HEC Paris** consistently ranks among the top business schools globally, solidifying its reputation as a leader in business education.
 
 *Upon completion of the course, I will proudly upload the certificate here.*
 :::
 
 ::: {.column width="10%"}
-
 :::
 
 ::: {.column width="30%"}
-![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="auto"}  
+![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="auto"}
 :::
-
-::::
+:::
