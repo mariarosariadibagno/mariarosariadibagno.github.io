@@ -46,4 +46,6 @@ editor: visual
 :::
 
 ::: {.column width="30%"}
-![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="au
+![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="auto"}
+:::
+:::
