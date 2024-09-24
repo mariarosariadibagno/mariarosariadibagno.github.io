@@ -23,7 +23,7 @@ editor: visual
 ::: {.column width="25%"}
 **Want to Read?**
 
-[Download My CV](files/mariarosaria.dibagno-cv.pdf){.button download="CVResume-3.pdf"}
+[Download My CV](files/mariarosaria.dibagno-cv.pdf){.button download="CVResume.pdf"}
 :::
 :::
 
