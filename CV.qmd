@@ -23,7 +23,7 @@ editor: visual
 ::: {.column width="25%"}
 **Want to Read?**
 
-[Download My CV](files/CVResume-3.pdf){.button download="CVResume-3.pdf"}
+[Download My CV](files/mariarosaria.dibagno-cv.pdf){.button download="CVResume-3.pdf"}
 :::
 :::
 
@@ -46,6 +46,4 @@ editor: visual
 :::
 
 ::: {.column width="30%"}
-![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="auto"}
-:::
-:::
+![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="au
