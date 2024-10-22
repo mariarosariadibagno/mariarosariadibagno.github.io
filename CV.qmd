@@ -31,15 +31,24 @@ editor: visual
 
 ::: columns
 ::: {.column width="60%"}
-![](images/Bocconi_University_Logo.png){width="120" height="auto" style="text-align: center"}
-
--   **Fashion and Luxury Management** <br> *Bocconi University*<br> Through my studies in Luxury and Fashion Management at Bocconi University, I have gained comprehensive knowledge in **main business models**, **product** and **brand management**, **communication identity** and **challenge**, and **retail identity** and **distribution strategies**. This [certificate](images/CERTIFICATE_LANDING_PAGE~UNPKY3DH64LW.jpeg) has equipped me with essential skills and insights vital for success in the dynamic luxury and fashion industries
-
 ![](images/HEC_Paris.svg.png){width="100" height="auto" style="text-align: center"}
 
--   **Luxury Management**<br> *Hec Paris*<br> I am thrilled to announce that I have been admitted to the **HEC Paris Summer School** for a course in **Luxury Management**, which I will be attending in June. **HEC Paris** consistently ranks among the top business schools globally, solidifying its reputation as a leader in business education.
+-   **Luxury Management**<br> *Hec Paris*<br> 
 
-*Upon completion of the course, I will proudly upload the certificate here.*
+In the summer of 2024, I had the honor of attending the **HEC Paris Luxury Management Programme.** This transformative experience at one of Europe’s top business schools allowed me to dive deep into the world of luxury, exploring the intricacies of **brand identity**, **retail strategies**, and the **emotional value** behind luxury brands. Learning from industry leaders and engaging with talented peers made this journey truly unforgettable.<br>
+I concluded my course with an A grade: 
+[Access Transcript](Mariarosaria_DI_BAGNO_SUMMER_2024_copy.pdf)<br>
+
+This is my certificate of attendance: [Certificate](docs/Mariarosaria_DI_BAGNO_SUMMER_2024_Summer_School_Certificate.pdf)
+
+
+![](images/Bocconi_University_Logo.png){width="120" height="auto" style="text-align: center"}
+
+-   **Fashion and Luxury Management** <br> *Bocconi University*<br>
+
+Through my studies in Luxury and Fashion Management at Bocconi University, I have gained comprehensive knowledge in **main business models**, **product** and **brand management**, **communication identity** and **challenge**, and **retail identity** and **distribution strategies**. This [certificate](images/CERTIFICATE_LANDING_PAGE~UNPKY3DH64LW.jpeg) has equipped me with essential skills and insights vital for success in the dynamic luxury and fashion industries
+
+
 :::
 
 ::: {.column width="10%"}
