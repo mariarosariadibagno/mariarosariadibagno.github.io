@@ -31,6 +31,14 @@ editor: visual
 
 ::: columns
 ::: {.column width="60%"}
+
+![](images/Eiis.png){width="150" height="auto" style="text-align: center"} <br> 
+
+-   **Fashion&Sustainability Management**<br> *European Institute for Innovation and Sustainability*<br> 
+
+
+Excited to announce I have been selected to attend the **Fashion and Sustainability certificate program** with Eiis. Upon graduation, I will upload the certificate.
+
 ![](images/HEC_Paris.svg.png){width="100" height="auto" style="text-align: center"}
 
 -   **Luxury Management**<br> *Hec Paris*<br> 
