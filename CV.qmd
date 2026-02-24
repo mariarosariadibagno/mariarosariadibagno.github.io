@@ -27,17 +27,8 @@ editor: visual
 [Download My CV](docs/mariarosaria.dibagno-cv%20copy.pdf){.button download="CVResume.pdf"}
 :::
 
-## Certificates
-
 ::: columns
 ::: {.column width="60%"}
-![](images/Bocconi_University_Logo.png){width="120" height="auto" style="text-align: center"}
-
--   **Fashion and Luxury Management** <br> *Bocconi University*<br> Through my studies in Luxury and Fashion Management at Bocconi University, I have gained comprehensive knowledge in **main business models**, **product** and **brand management**, **communication identity** and **challenge**, and **retail identity** and **distribution strategies**. This [certificate](images/CERTIFICATE_LANDING_PAGE~UNPKY3DH64LW.jpeg) has equipped me with essential skills and insights vital for success in the dynamic luxury and fashion industries
-
-![](images/HEC_Paris.svg.png){width="100" height="auto" style="text-align: center"}
-
--   **Luxury Management**<br> *Hec Paris*<br> I am thrilled to announce that I have been admitted to the **HEC Paris Summer School** for a course in **Luxury Management**, which I will be attending in June. **HEC Paris** consistently ranks among the top business schools globally, solidifying its reputation as a leader in business education. This [certificate](docs/Mariarosaria_DI_BAGNO_SUMMER_2024_Sum.pdf)
 
 [Download My CV](docs/mariarosaria.dibagno-cv copy.pdf){.button download="CVResume.pdf"}
 :::
