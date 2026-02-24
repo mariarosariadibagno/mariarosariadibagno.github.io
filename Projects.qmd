@@ -34,33 +34,13 @@ Beginning with a global context, the study traces developments from 1972—the y
 -   Delve into a *comprehensive analysis* that connects environmental politics, sustainable practices, and advanced computational methods: <br> [View My Final Presentation](docs/Final_Project.html) <br>
 -   Discover a *brief overview* of the critical insights and conclusions of my study: <br> [Access My Memo Presentation](docs/memo_Project.html)
 
-## **Senior Thesis**
-
-:::::: columns
-**The Green Influence:** <br> **Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
-
-::: {.column width="20%"}
-![](images/index.png){width="250" height="auto"}
-
-:::
-
 ::::
-
-
-*Explore my findings through my presentations:*
-
-- Delve into a *comprehensive analysis* that connects environmental politics, sustainable practices, and advanced computational methods: <br>
-[View My Final Presentation](docs/Final_Project.html) 
- <br>
-- Discover a *brief overview* of the critical insights and conclusions of my study: <br>
-[Access My Memo Presentation](docs/memo_Project.html) 
 
 
 ## **Senior Thesis**
 :::: {.columns}
 **The Green Influence:** 
 <br> **Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
-
 ::: {.column width="20%"}
  ![](images/index.png){width="250" height="auto"}
 
