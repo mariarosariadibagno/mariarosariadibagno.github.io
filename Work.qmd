@@ -22,11 +22,10 @@ As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), a no
 ::: {style="text-align: left"}
 ![](images/global-action.png){width="120" height="auto"}
 :::
-<<<<<<< HEAD
+
 ::::
-=======
+
 :::
->>>>>>> 66e97717bce1ab288030426e1af9c73f85e7ff9c
 
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
