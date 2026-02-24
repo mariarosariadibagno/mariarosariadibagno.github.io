@@ -7,17 +7,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-<<<<<<< HEAD
         text: Home
       - CV.qmd
       - Projects.qmd
       - Work.qmd
-=======
         text: Home 
       - CV.qmd 
       - Projects.qmd    
       - Work.qmd  
->>>>>>> 66e97717bce1ab288030426e1af9c73f85e7ff9c
 
 format:
   html:
