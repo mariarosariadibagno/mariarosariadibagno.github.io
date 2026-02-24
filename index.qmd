@@ -1,7 +1,7 @@
 ---
 title: "Mariarosaria <br>
 Di Bagno"
-subtitle: "B.A. in International Affairs<br>Minors in Economics & Legal Studies"
+subtitle: "LSE-Bocconi MSc DD Candidate in European and International Public Policy and Politics |  BA in International Affairs, minors in Economics and Legal Studies JCU |"
 style: floating
 output: 
   html_document:
