@@ -10,7 +10,7 @@ website:
         text: Home
       - CV.qmd
       - Projects.qmd
-      - Work.qmd
+      - Work.qmd 
         text: Home 
       - CV.qmd 
       - Projects.qmd    
