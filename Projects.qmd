@@ -7,8 +7,6 @@ engine: knitr
 editor: visual
 ---
 
-## **Rising Temperatures and Droughts**
-
 :::::: columns
 
 ## **Rising Temperatures and Droughts**
@@ -43,10 +41,6 @@ Beginning with a global context, the study traces developments from 1972—the y
 
 ::: {.column width="20%"}
 ![](images/index.png){width="250" height="auto"}
-
-
-![](images/1606830999754.png){width="250" height="auto"}  
-
 
 :::
 
