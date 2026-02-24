@@ -14,8 +14,6 @@ about:
   links:
   - icon: linkedin
     href: "https://www.linkedin.com/in/mariarosaria-di-bagno-7a03232b7/"
-  - icon: instagram
-    href: "https://www.instagram.com/maradibagno?igsh=dGx1Mm1jZHNwZDNq"
 ---
 
 
