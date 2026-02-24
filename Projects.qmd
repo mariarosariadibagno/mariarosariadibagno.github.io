@@ -36,14 +36,15 @@ Beginning with a global context, the study traces developments from 1972—the y
 
 ::::
 
-
 ## **Senior Thesis**
-:::: {.columns}
-**The Green Influence:** 
-<br> **Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
-::: {.column width="20%"}
- ![](images/index.png){width="250" height="auto"}
 
+**The Green Influence:**  
+**Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
+
+::: columns
+
+::: {.column width="20%"}
+![](images/index.png){width="250" height="auto"}
 :::
 
 ::: {.column width="10%"}
@@ -51,22 +52,17 @@ Beginning with a global context, the study traces developments from 1972—the y
 :::
 
 ::: {.column width="70%"}
-
-**Abstract**<br>
+**Abstract**  
 This thesis examines how political systems in oil-rich countries influence the adoption of environmental sustainability practices aligned with the UN Sustainable Development Goals. While prior research suggests democratic nations are more inclined towards sustainable environmental policies, this study expands upon that notion. Through an analytical framework encompassing the production function, clean democracy hypothesis, environmental Kuznets curve, and eco-authoritarianism, it evaluates the relationship between political systems and environmental performance.
 
 Utilizing quantitative analysis across 156 countries and qualitative examination of policy initiatives in the UAE, Saudi Arabia, and Qatar, this thesis reveals that some authoritarian oil-dependent countries demonstrate environmental initiatives. These findings challenge biases and advocate for reconsideration of the potential for environmentally sustainable policies in such nations.
 
 Furthermore, this research addresses a notable gap in the literature by connecting various theories to assess the impact of political systems on environmental initiatives in oil-rich countries. By integrating aspects of political economy and environmental policy, it contributes valuable insights for future studies on oil, political systems, and their effectiveness in promoting environmental initiatives.
 :::
-::::::
-
--   [Read my My Senior Thesis](docs/DiBagnoMariarosariaSP24.pdf)
-
 
 :::
 
-::::
+- [Read my Senior Thesis](docs/DiBagnoMariarosariaSP24.pdf)
 
 
 
