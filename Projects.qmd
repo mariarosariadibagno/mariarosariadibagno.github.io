@@ -72,8 +72,6 @@ Beginning with a global context, the study traces developments from 1972—the y
 
 ::: {.column width="70%"}
 
-**Abstract**<br> This thesis examines how political systems in oil-rich countries influence the adoption of environmental sustainability practices aligned with the UN Sustainable Development Goals. While prior research suggests democratic nations are more inclined towards sustainable environmental policies, this study expands upon that notion. Through an analytical framework encompassing the production function, clean democracy hypothesis, environmental Kuznets curve, and eco-authoritarianism, it evaluates the relationship between political systems and environmental performance.
-
 **Abstract**<br>
 This thesis examines how political systems in oil-rich countries influence the adoption of environmental sustainability practices aligned with the UN Sustainable Development Goals. While prior research suggests democratic nations are more inclined towards sustainable environmental policies, this study expands upon that notion. Through an analytical framework encompassing the production function, clean democracy hypothesis, environmental Kuznets curve, and eco-authoritarianism, it evaluates the relationship between political systems and environmental performance.
 
@@ -90,6 +88,5 @@ Furthermore, this research addresses a notable gap in the literature by connecti
 
 ::::
 
-- [Read my My Senior Thesis](docs/DiBagnoMariarosariaSP24.pdf) 
 
 
