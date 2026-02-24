@@ -11,7 +11,7 @@ website:
       - href: CV.qmd
         text: CV
       - href: Projects.qmd
-        text: Projects
+        text: Projects 
       - href: Work.qmd
         text: Work
 
