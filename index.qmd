@@ -19,11 +19,10 @@ about:
 
 Hi! I’m **Mariarosaria Di Bagno**, an **MSc Double Degree** student in **European & International Public Policy and Politics** at [Bocconi University](https://www.unibocconi.eu/) and [The London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/).
 
-I graduated from [John Cabot University](https://www.johncabot.edu/)  with magna cum laude with a **BA in International Affairs** and minors in **Economics** and **Legal Studies**. My interests focus on **European governance**, **evidence-based policy**, and the **energy transition**, with a strong motivation to work on projects that combine **rigorous analysis** and **public impact**.
+I graduated from [John Cabot University](https://www.johncabot.edu/)  with magna cum laude with a **BA in International Affairs** and minors in **Economics** and **Legal Studies**. My interests lie at the intersection of **climate policy**, **political economy**, **comparative politics**, and **finance**, with a particular focus on the **green transition**.
 
-My academic path is driven by a strong interest in how **economic** and **legal frameworks** shape international relations and policy choices. I’m especially motivated by the role of **diplomacy** in building cooperation across institutions and countries, and I enjoy translating complex issues into clear, actionable insights.
+I am interested in understanding how political institutions, economic structures, and financial systems shape countries’ responses to climate change. In particular, I explore why climate and energy policies differ across political systems, how governments balance environmental and economic priorities, and how public and private finance can support the transition towards low-carbon economies.
 
-Alongside this, I’m passionate about **data analysis** and evidence-based decision-making. I like working with data to understand patterns, evaluate policies, and communicate results in a way that supports real-world impact.
+Alongside these interests, I am passionate about **quantitative and geospatial analysis**, causal inference, and evidence-based policymaking. I use tools such as **R**, **Stata**, and **QGIS** to identify patterns, evaluate policies, and translate complex evidence into clear and actionable insights.
 
-Beyond the classroom, I explore how **sustainability** and **fashion** can intersect to advance **ethical production**, **responsible consumption**, and more sustainable business models. Looking ahead, I’m eager to contribute to projects that combine **public purpose**, **innovation**, and **social responsibility**—bringing curiosity, analytical rigor, and a collaborative mindset.
-
+Beyond the classroom, my experience coordinating diplomacy initiatives and collaborating with international institutions and embassies has strengthened my interest in **international cooperation and public decision-making**. Looking ahead, I hope to contribute to research and policy projects that combine **analytical rigour**, **institutional understanding**, **and meaningful public impact**.
