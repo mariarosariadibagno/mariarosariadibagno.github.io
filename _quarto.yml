@@ -12,8 +12,8 @@ website:
         text: CV
       - href: Projects.qmd 
         text: Projects 
-      - href: Work.qmd 
-        text: Work  
+      - href: Work.qmd
+        text: Work   
   
 format:
   html:
@@ -21,7 +21,7 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: visual 
 
 
 
