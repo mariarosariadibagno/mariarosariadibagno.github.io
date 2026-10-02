@@ -13,7 +13,7 @@ website:
       - href: Projects.qmd 
         text: Projects 
       - href: Work.qmd
-        text: Work   
+        text: Work Experience
   
 format:
   html:
