@@ -1,5 +1,5 @@
 ---
-title: "Work"
+title: "Work Experience"
 format: html
 editor: visual
 ---
@@ -13,9 +13,12 @@ editor: visual
 ### **Research Assistant**
 *to professor Bogdan G. Popescu*
 
-# Internships
+# Experiences
 
-## ** Global Action** (oct.2024-oct.2025)
+##**IFAD**
+
+## ** Global Action** 
+*(oct.2023-oct.2025)*
 ### **Event Manager**
 ### **Team Coordinator** 
 ### **Bureau Intern**
