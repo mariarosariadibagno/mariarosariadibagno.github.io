@@ -4,12 +4,19 @@ format: html
 editor: visual
 ---
 
-# Internships
-
+# Research Experience
 ## **European Youth Think Thank**
 ### **Policy Analyst**
-### **Socioeconomic Research Assistant* 
+### **Socioeconomic Research Assistant**
+
+## **John Cabot University**
+### **Research Assistant**
+*to professor Bogdan G. Popescu*
+
+# Internships
+
 ## ** Global Action** (oct.2024-oct.2025)
+### **Event Manager**
 ### **Team Coordinator** 
 ### **Bureau Intern**
 
