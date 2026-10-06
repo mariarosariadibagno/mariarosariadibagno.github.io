@@ -33,7 +33,7 @@ from FRED and the World Bank.
 ::: {.column width="30%"}
 
 
-[Read the Paper](docs/The_Politics_of_Financial_Fragility_revised.pdf)
+[Read the Paper](Users/mara/Desktop/John Cabot/mariarosariadibagno.github.io/docs/docs/The_Politics_of_Financial_Fragility_revised.pdf)
 :::
 ::::::
 
