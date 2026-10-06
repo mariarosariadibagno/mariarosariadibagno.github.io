@@ -30,10 +30,9 @@ Beginning with a global context, the study traces developments from 1972, the ye
 -   Discover a *brief overview* of the critical insights and conclusions of my study: <br> [Access My Memo Presentation](docs/memo_Project.html)
 
 
-## **Senior Thesis**
+## **Undergraduate Senior Thesis**
 
-**The Green Influence:**  
-**Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
+**The Green Influence:****Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
 
 **Abstract**  
 This thesis examines how political systems in oil-rich countries influence the adoption of environmental sustainability practices aligned with the UN Sustainable Development Goals. While prior research suggests democratic nations are more inclined towards sustainable environmental policies, this study expands upon that notion. Through an analytical framework encompassing the production function, clean democracy hypothesis, environmental Kuznets curve, and eco-authoritarianism, it evaluates the relationship between political systems and environmental performance.
