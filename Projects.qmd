@@ -70,6 +70,8 @@ Beginning with a global context, the study traces developments from 1972, the ye
 **The Green Influence:**  
 **Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
 
+[Read my Senior Thesis](docs/DiBagnoMariarosariaSP24.pdf)
+
 ::: columns
 
 ::: {.column width="10%"}
@@ -85,9 +87,7 @@ Utilizing quantitative analysis across 156 countries and qualitative examination
 Furthermore, this research addresses a notable gap in the literature by connecting various theories to assess the impact of political systems on environmental initiatives in oil-rich countries. By integrating aspects of political economy and environmental policy, it contributes valuable insights for future studies on oil, political systems, and their effectiveness in promoting environmental initiatives.
 :::
 
-:::
 
-- [Read my Senior Thesis](docs/DiBagnoMariarosariaSP24.pdf)
 
 
 
