@@ -6,12 +6,9 @@ format:
 engine: knitr
 editor: visual
 ---
-:::::: columns
 
 ## **Course Paper: Economics & Politics, Bocconi University (2026)**
-:::: {.columns}
 
-::: {.column width="60%"}
 Why do financial booms so often culminate in systemic crises, and why do
 policymakers fail to intervene before financial vulnerabilities become
 systemic?
@@ -24,46 +21,21 @@ financial instability with the political economy of crisis prevention. The
 paper also includes original data visualisations produced in R using data
 from FRED and the World Bank.
 
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="30%"}
-
 
 [Read the Paper](docs/politics_revised.pdf) 
-:::
-::::::
 
-::::
-
-
-:::::: columns
 
 ## **Rising Temperatures and Droughts**
-:::: {.columns}
 
-::: {.column width="60%"}
 This project analyzes the relationship between **climate change** and **drought intensity** in New Zealand, a region known for its susceptibility to **droughts**. <br>
 
 Beginning with a global context, the study traces developments from 1972, the year of the first **United Nations Conference on the Human Environment**, to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
-
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::::::
 
 *Explore my findings through my presentations:*
 
 -   Delve into a *comprehensive analysis* that connects environmental politics, sustainable practices, and advanced computational methods: <br> [View My Final Presentation](docs/Final_Project.html) <br>
 -   Discover a *brief overview* of the critical insights and conclusions of my study: <br> [Access My Memo Presentation](docs/memo_Project.html)
 
-::::
 
 ## **Senior Thesis**
 
@@ -72,20 +44,12 @@ Beginning with a global context, the study traces developments from 1972, the ye
 
 [Read my Senior Thesis](docs/DiBagnoMariarosariaSP24.pdf)
 
-::: columns
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="70%"}
 **Abstract**  
 This thesis examines how political systems in oil-rich countries influence the adoption of environmental sustainability practices aligned with the UN Sustainable Development Goals. While prior research suggests democratic nations are more inclined towards sustainable environmental policies, this study expands upon that notion. Through an analytical framework encompassing the production function, clean democracy hypothesis, environmental Kuznets curve, and eco-authoritarianism, it evaluates the relationship between political systems and environmental performance.
 
 Utilizing quantitative analysis across 156 countries and qualitative examination of policy initiatives in the UAE, Saudi Arabia, and Qatar, this thesis reveals that some authoritarian oil-dependent countries demonstrate environmental initiatives. These findings challenge biases and advocate for reconsideration of the potential for environmentally sustainable policies in such nations.
 
 Furthermore, this research addresses a notable gap in the literature by connecting various theories to assess the impact of political systems on environmental initiatives in oil-rich countries. By integrating aspects of political economy and environmental policy, it contributes valuable insights for future studies on oil, political systems, and their effectiveness in promoting environmental initiatives.
-:::
 
 
 
