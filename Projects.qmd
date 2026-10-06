@@ -33,7 +33,7 @@ from FRED and the World Bank.
 ::: {.column width="30%"}
 
 
-[Read the Paper](/Users/mara/Desktop/John Cabot/mariarosariadibagno.github.io/docs/docs/politics_revised.pdf) 
+[Read the Paper](docs/politics_revised.pdf) 
 :::
 ::::::
 
