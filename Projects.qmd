@@ -8,7 +8,7 @@ editor: visual
 ---
 
 ## **The Politics of Financial Fragility** 
-**Course Paper: Economics & Politics, Bocconi University (2026)** 
+**Course Paper: Economics & Politics, Bocconi University (2026)** <br> 
 *Why do financial booms so often culminate in systemic crises, and why do policymakers fail to intervene before financial vulnerabilities become systemic?* This paper examines how credit expansion, asset-price bubbles, maturity mismatches, and information asymmetries interact with political incentives, regulatory capture, and institutional constraints. Drawing on the Global Financial Crisis and the Asian Financial Crisis, it connects theories of
 financial instability with the political economy of crisis prevention. The
 paper also includes original data visualisations produced in R using data
