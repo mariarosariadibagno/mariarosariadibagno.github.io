@@ -56,10 +56,6 @@ Beginning with a global context, the study traces developments from 1972, the ye
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="30%"}
-
-![](images/1606830999754.png){width="250" height="auto"}
-:::
 ::::::
 
 *Explore my findings through my presentations:*
@@ -75,10 +71,6 @@ Beginning with a global context, the study traces developments from 1972, the ye
 **Exploring the Impact of Political Systems on Renewable Energy Transition in Oil Countries**
 
 ::: columns
-
-::: {.column width="20%"}
-![](images/index.png){width="250" height="auto"}
-:::
 
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
