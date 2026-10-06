@@ -6,6 +6,39 @@ format:
 engine: knitr
 editor: visual
 ---
+:::::: columns
+
+## **Course Paper: Economics & Politics, Bocconi University (2026)**
+:::: {.columns}
+
+::: {.column width="60%"}
+Why do financial booms so often culminate in systemic crises, and why do
+policymakers fail to intervene before financial vulnerabilities become
+systemic?
+
+This paper examines how credit expansion, asset-price bubbles, maturity
+mismatches, and information asymmetries interact with political incentives,
+regulatory capture, and institutional constraints. Drawing on the Global
+Financial Crisis and the Asian Financial Crisis, it connects theories of
+financial instability with the political economy of crisis prevention. The
+paper also includes original data visualisations produced in R using data
+from FRED and the World Bank.
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="30%"}
+
+
+[Read the Paper](docs/The_Politics_of_Financial_Fragility_revised)
+:::
+::::::
+
+::::
+
 
 :::::: columns
 
@@ -15,7 +48,7 @@ editor: visual
 ::: {.column width="60%"}
 This project analyzes the relationship between **climate change** and **drought intensity** in New Zealand, a region known for its susceptibility to **droughts**. <br>
 
-Beginning with a global context, the study traces developments from 1972—the year of the first **United Nations Conference on the Human Environment**—to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
+Beginning with a global context, the study traces developments from 1972, the year of the first **United Nations Conference on the Human Environment**, to 2022. This time frame provides a balance of historical perspective and recent data reliability. The research aims to link environmental politics and sustainable practices through the use of R Studio for **spatial analysis** and **Geographic Information Systems** (GIS).
 
 :::
 
