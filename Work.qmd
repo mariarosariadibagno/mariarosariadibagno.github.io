@@ -111,7 +111,7 @@ I helped plan the conference and coordinate its logistics. I also chaired the Wo
 
 ::: {.column width="45%"}
 ![](/Users/mara/Desktop/John Cabot/mariarosariadibagno.github.io/images/event_consultant.jpeg){width="320" height="auto"}
-:::
+::: 
 
 ::::::
 
