@@ -6,8 +6,20 @@ editor: visual
 
 # Research Experience
 ## **European Youth Think Tank**
-### **Policy Analyst**
-### **Socioeconomic Research Assistant**
+### **Policy Analyst** *July 2026–present*
+- I research and write articles on European and international policy, with a focus on climate and energy policy, political economy, sustainable finance, and the green transition.
+
+- I examine how political institutions and economic incentives shape policy choices, drawing on academic research, policy documents, and empirical evidence.
+
+- I turn complex research into clear, accessible articles for readers interested in European and international affairs.
+
+### **Socioeconomic Research Assistant** *May 2026–present*
+-  I contributed to drafting and proofreading academic papers on economics, European affairs, and sustainability, checking sources and improving the clarity and consistency of research texts.
+
+- I collected and organised socioeconomic data and used **Stata to estimate statistical models**. I worked on questions of **causal identification**, considering how the research design and its assumptions affect the interpretation of results.
+
+-  translated and revised research materials and proofread EU project proposals, helping present their content clearly and consistently.
+
 
 ## [John Cabot University](https://www.johncabot.edu/)
 ### **Research Assistant**
