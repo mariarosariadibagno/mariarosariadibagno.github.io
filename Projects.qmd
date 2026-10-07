@@ -15,7 +15,7 @@ financial instability with the political economy of crisis prevention. The
 paper also includes original data visualisations produced in R using data
 from FRED and the World Bank.
 
-- [Read the Paper](docs/politics_revised.pdf) 
+- [Read the Paper](docs/DiBagno_shortpaper.pdf) 
 
 
 ## **Rising Temperatures and Droughts**
