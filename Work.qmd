@@ -21,12 +21,19 @@ editor: visual
 ### **Event Manager**
 *(oct.2023-oct.2025)* <br>
 At Global Action, I helped launch **Global Action Insight**, a seminar series at UNINT in Rome that introduced high school students to diplomacy and global issues. I helped develop the themes, coordinate speakers, and present and moderate sessions.
+::: columns
+
+::: {.column width="47%"}
 
 - **Women Empowerment and Leadership in the International Context** (29 January 2025):I co-presented the inaugural seminar, introducing speakers from diplomacy, human rights, and international organisations. The discussion explored women’s leadership and encouraged students to see how they could contribute to their communities.
 ![](images/woman.jpeg){width="320" height="auto"}
 
 - **Climate Change (21 February 2025)**:  organised and moderated a seminar that gave students a space to discuss climate change as a global challenge and consider the role of international cooperation.
 ![](images/climate.jpeg){width="320" height="auto"}
+:::
+
+::: {.column width="5%"}
+:::
 
 ### **Team Coordinator** 
 *(oct.2024-oct.2025)*
