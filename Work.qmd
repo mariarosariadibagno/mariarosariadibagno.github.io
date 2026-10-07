@@ -12,7 +12,7 @@ editor: visual
 ## [John Cabot University](https://www.johncabot.edu/)
 ### **Research Assistant**
 *to professor Bogdan G. Popescu*
-As a Research Assistant to Professor Bogdan G. Popescu at John Cabot University, I created a county-level map of illiteracy in Yugoslavia using data from the **1930 census**. I built the geographic dataset and final map from scratch to support research using regression discontinuity analysis.
+As a Research Assistant to Professor Bogdan G. Popescu at John Cabot University, I created a county-level map of illiteracy in Yugoslavia using data from the **1930 census**. I built the geographic dataset and final map from scratch to support research using regression discontinuity analysis. 
 
 - I researched historical maps, georeferenced them in QGIS, and digitised county boundaries to create the shapefiles.
 
