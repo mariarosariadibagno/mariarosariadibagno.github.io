@@ -9,14 +9,24 @@ editor: visual
 ### **Policy Analyst**
 ### **Socioeconomic Research Assistant**
 
-## **John Cabot University**
+## [John Cabot University](https://www.johncabot.edu/)
 ### **Research Assistant**
 *to professor Bogdan G. Popescu*
+As a Research Assistant to Professor Bogdan G. Popescu at John Cabot University, I created a county-level map of illiteracy in Yugoslavia using data from the **1930 census**. I built the geographic dataset and final map from scratch to support research using regression discontinuity analysis.
+
+- I researched historical maps, georeferenced them in QGIS, and digitised county boundaries to create the shapefiles.
+
+- I collected and translated census material, then linked the literacy figures to the mapped counties.
+
+- I used R to produce the final map, showing how illiteracy rates varied across Yugoslavia.
+
+[Access the Map](/Users/mara/Desktop/John Cabot/mariarosariadibagno.github.io/images/map copy.jpg)
 
 # Experiences
 ## [Global Action](https://diplomacyeducation.org)
 
-### **Event Manager** *(oct.2024-oct.2025)* <br>
+### **Event Manager** *(oct.2024-oct.2025)* 
+
 At Global Action, I helped launch **Global Action Insight**, a seminar series at UNINT in Rome that introduced high school students to diplomacy and global issues. I helped develop the themes, coordinate speakers, and present and moderate sessions.
 
 - **Women Empowerment and Leadership in the International Context (29 January 2025)**:I co-presented the inaugural seminar, introducing speakers from diplomacy, human rights, and international organisations. The discussion explored women’s leadership and encouraged students to see how they could contribute to their communities. <br>
