@@ -20,7 +20,7 @@ As a Research Assistant to Professor Bogdan G. Popescu at John Cabot University,
 
 - I used R to produce the final map, showing how illiteracy rates varied across Yugoslavia.
 
-[Access the Map](images/map-copy.jpg)
+[Access the Map](docs/Doc6)
 
 # Experiences
 ## [Global Action](https://diplomacyeducation.org)
