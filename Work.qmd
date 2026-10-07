@@ -14,7 +14,7 @@ editor: visual
 *to professor Bogdan G. Popescu*
 
 # Experiences
-## [Global Action](https://diplomacyeducation.org)]
+## [Global Action](https://diplomacyeducation.org)
 
 ### **Event Manager** *(oct.2023-oct.2025)* <br>
 At Global Action, I helped launch **Global Action Insight**, a seminar series at UNINT in Rome that introduced high school students to diplomacy and global issues. I helped develop the themes, coordinate speakers, and present and moderate sessions.
@@ -31,30 +31,10 @@ as a Team Coordinator, i would manage a group of six interns within the diplomac
 
 ### **Bureau Intern**
 
-  
-::::::: columns
-:::: {.column width="60%"}
-
-::: columns
-::: {.column width="60%"}
-
-*Overview*:
-
-As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), I supported the Diplomacy Education project by working with embassies in Italy and connecting them with Italian high schools. The project introduced students to diplomacy through accessible, high quality educational experiences. <br>  
+As a Junior Team Intern, I supported the Diplomacy Education project by working with embassies in Italy and connecting them with Italian high schools. The project introduced students to diplomacy through accessible, high quality educational experiences. <br>  
 
 ::::
 
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-:::::::
-
-:::::: columns
-
-:::
 
 ::: columns
 
@@ -92,7 +72,7 @@ As a Junior Team Intern at [Global Action](https://diplomacyeducation.org), I su
 
 **GAMUN -Global Action Model United Nations**
 
-**My Role at GAMUN 2024 (20-23 May)** <br> In May 2024, I had the honor of contributing to the seventh edition of the Global Action Model United Nations (GAMUN), hosted at the [International Fund for Agricultural Development](https://www.ifad.org/en/) in Rome. This event is a flagship project of Global Action Italy’s Diplomacy Education, dedicated to promoting **accessible, high-quality education on a global scale**.
+**My Role at GAMUN 2024 (20-23 May 2024)** <br> In May 2024, I had the honor of contributing to the seventh edition of the Global Action Model United Nations (GAMUN), hosted at the [International Fund for Agricultural Development](https://www.ifad.org/en/) in Rome. This event is a flagship project of Global Action Italy’s Diplomacy Education, dedicated to promoting **accessible, high-quality education on a global scale**.
 
 My involvement began in the intricate planning and organizational phases, where I was part of the **managerial team** responsible for the logistical and strategic execution of the conference. This role required meticulous attention to detail and a deep understanding of how to cultivate an environment conducive to fruitful discussions and meaningful outcomes.
 
