@@ -120,9 +120,8 @@ I helped plan the conference and coordinate its logistics. I also chaired the Wo
 
 ### **Event Consultant**
 - **IFAD — March–May 2025**: Supported IFAD’s Innovation Day as part of the event team, assisting with on-site logistics and helping the programme run smoothly for participants
-:::::: columns
 
-::: columns
+:::::: columns
 
 ::: {.column width="45%"}
 ![](images/Evenr_consultant.jpeg){width="300" height="auto"}
