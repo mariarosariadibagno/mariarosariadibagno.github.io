@@ -113,14 +113,14 @@ I helped plan the conference and coordinate its logistics. I also chaired the Wo
 ::: columns
 
 ::: {.column width="45%"}
-![](/Users/mara/Desktop/John Cabot/mariarosariadibagno.github.io/images/Evenr_consultant.jpeg){width="320" height="auto"}
+![](images/Evenr_consultant.jpeg){width="300" height="auto"}
 :::
 
 ::: {.column width="10%"}
 :::
 
 ::: {.column width="45%"}
-![](/Users/mara/Desktop/John Cabot/mariarosariadibagno.github.io/images/event_consultant.jpeg){width="320" height="auto"}
+![](images/event_consultant.jpeg){width="300" height="auto"}
 ::: 
 
 ::::::
