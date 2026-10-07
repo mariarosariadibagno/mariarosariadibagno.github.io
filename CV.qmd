@@ -60,9 +60,6 @@ This is my certificate of attendance: [Certificate](docs/Mariarosaria_DI_BAGNO_S
 ::: {.column width="10%"}
 :::
 
-::: {.column width="30%"}
-![](images/E_SDG_inverted_CMYK-12-scaled.jpg){width="250" height="auto"}
-:::
 ::::::
 ::::::::::::
 
