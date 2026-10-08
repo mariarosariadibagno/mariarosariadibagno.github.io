@@ -89,8 +89,6 @@ As a Junior Team Intern, I supported the Diplomacy Education project by working 
 ::::::
 
  
-
-
 **GAMUN -Global Action Model United Nations**
 
 **My Role at GAMUN 2024 (20-23 May 2024)** <br> In May 2024, I was part of the management team for the seventh edition of the Global Action Model United Nations (GAMUN), hosted at the [International Fund for Agricultural Development](https://www.ifad.org/en/) in Rome. This event is a flagship project of Global Action Italy’s Diplomacy Education, dedicated to promoting **accessible, high-quality education on a global scale**.
@@ -123,6 +121,8 @@ I helped plan the conference and coordinate its logistics. I also chaired the Wo
 
 :::::: columns
 
+::: columns
+
 ::: {.column width="45%"}
 ![](images/Evenr_consultant.jpeg){width="300" height="auto"}
 :::
@@ -132,9 +132,10 @@ I helped plan the conference and coordinate its logistics. I also chaired the Wo
 
 ::: {.column width="45%"}
 ![](images/event_consultant.jpeg){width="300" height="auto"}
-::: 
+:::
 
-::::::
+:::::: 
 
+:::
 
 - **GAMUN 2024 (April–June 2024)**: Helped plan and organise Global Action Model United Nations (GAMUN) 2024 as part of the management team, then chaired the World Food Programme committee and guided delegates’ discussions on food security.
