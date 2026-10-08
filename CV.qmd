@@ -26,10 +26,6 @@ editor: visual
 [Download My CV](docs/mariarosaria.dibagno-cv%20copy.pdf){.button download="CVResume.pdf"}
 :::
 
-:::: columns
-::: {.column width="60%"}
-[Download My CV](docs/mariarosaria.dibagno-cv%20copy.pdf){.button download="CVResume.pdf"}
-:::
 ::::
 
 ## Certificates
