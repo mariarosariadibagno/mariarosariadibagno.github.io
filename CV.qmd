@@ -164,6 +164,5 @@ This is my certificate of attendance: [Certificate](docs/Mariarosaria_DI_BAGNO_S
 ::: {.column width="10%"}
 :::
 
-::::::
 ::::::::::::
 
