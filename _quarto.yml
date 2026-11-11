@@ -14,7 +14,7 @@ website:
         text: Projects 
       - href: Work.qmd
         text: Research Experience     
-  
+   
 format:
   html:
     theme: cosmo
